@@ -7,4 +7,4 @@ Work Day Scheduler
 2. When I scroll down, it will show me time slots, it will be color coded to show the past, present and future.
 3. When I click on a time slot, it will allow me to enter data and save it to my scheduler on my local storage
 
-##Creation - researching the past examples, using W3, Chatgpt.
+##Creation - researching the past examples, using W3, Chatgpt.  I created the jsscript using chatgpt only to find it only gave me 3 time slots, one hour past, one current and one future.  I had to look at the code provided more indepth to figure out how I could code the calendar to show a full 24 hour day.  I had to add 0-23 time slots by copying the current html code for the past, current and future and then remove the past, current and future from the line code so it would coordinate properly.
