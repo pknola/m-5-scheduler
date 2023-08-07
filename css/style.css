@@ -1,3 +1,13 @@
+h1.display-3 {
+  text-align: center;
+  color: blueviolet;
+  font-weight: 900;
+}
+
+p.lead {
+  text-align: center;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -11,6 +21,7 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
+
 
 .description {
   white-space: pre-wrap;
